@@ -7,7 +7,7 @@
 ## About Me ✨
 Software developer passionate about creating meaningful solutions, with a focus on DevOps automation and developer experience. I love exploring new technologies and contributing to open-source projects that make developers' lives easier.
 
-## 🚀 Featured Project: Project Init CLI
+## 🚀 Featured Project: *project-init*
 
 A powerful development environment setup tool that streamlines database initialization for your projects.
 
