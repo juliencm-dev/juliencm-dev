@@ -41,7 +41,7 @@ A developer-first CLI tool that eliminates project setup headaches. Instantly co
 
 ```javascript
 const projectStack = {
-    core: ['Shell Scripting', 'Docker', 'Docker Compose'],
+    core: ['Python', 'Bash', 'Docker', 'Docker Compose'],
     databases: {
         sql: ['PostgreSQL', 'PgAdmin4'],
         nosql: ['MongoDB'],
@@ -53,8 +53,8 @@ const projectStack = {
     framework: {
         api: ['FastAPI'],
         testing: ['pytest'],
-        auth: ['JWT', 'OAuth2'],
-        logging: ['Custom Logger']
+        auth: ['JWT', 'Database Session'],
+        logging: ['Custom JSON Logger']
     }
 };
 ```
