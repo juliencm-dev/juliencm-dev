@@ -1,16 +1,14 @@
 # 👋 Hi there, I'm Julien
 
 [![GitHub followers](https://img.shields.io/github/followers/juliencm-dev?label=Follow&style=social)](https://github.com/juliencm-dev)
-[![Project Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/juliencm-dev/project-init-cli)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/juliencm-dev/project-init-cli/blob/main/LICENSE)
 
 ## About Me ✨
 I am a Computer Science Technician graduate and currently pursuing a Bachelor of Science in Computer Science Co-op at Concordia University in Montreal. I have a strong foundation in software development and a passion for DevOps automation and enhancing developer experience, I am driven to create meaningful solutions that simplify workflows and improve efficiency. My goal is to continue exploring new technologies and contribute to open-source projects that empower developers, making their work easier and more impactful.
 
 ## 🚀 Featured Project:
 ### Project-Init
-
-[Visit the repository](https://github.com/juliencm-dev/project-init-cli) 
+[![Project Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/juliencm-dev/project-init-cli)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/juliencm-dev/project-init-cli/blob/main/LICENSE)
 
 A developer-first CLI tool that eliminates project setup headaches. Instantly configure development databases, manage environments, and soon bootstrap production-ready FastAPI applications with best practices built-in. From zero to coding in minutes, not hours.
 
