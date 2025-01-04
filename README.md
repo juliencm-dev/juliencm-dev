@@ -8,7 +8,7 @@ I am a Computer Science Technician graduate and currently pursuing a Bachelor of
 ## 🚀 Featured Project:
 ### Project-Init
 [![Project Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/juliencm-dev/project-init-cli)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/juliencm-dev/project-init-cli/blob/main/LICENSE)
+![GitHub License](https://img.shields.io/github/license/juliencm-dev/project-init-cli)
 
 A developer-first CLI tool that eliminates project setup headaches. Instantly configure development databases, manage environments, and soon bootstrap production-ready FastAPI applications with best practices built-in. From zero to coding in minutes, not hours.
 
