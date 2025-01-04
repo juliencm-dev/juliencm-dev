@@ -73,35 +73,43 @@ cd dev-db/
 
 ## 💼 Technical Expertise
 
-```javascript
-// 🎯 Professional skill set
-const skills = {
-    devOps: {
-        containerization: ['Docker', 'Docker Compose'],
-        cloud: ['DigitalOcean', 'AWS', 'Cloudflare'],
-        cicd: ['GitHub Actions', 'CI/CD Pipelines']
-    },
-    databases: {
-        sql: ['PostgreSQL', 'MySQL'],
-        nosql: ['MongoDB'],
-        tools: ['Database Design', 'Migration Management']
-    },
-    languages: {
-        primary: ['TypeScript/JavaScript', 'Python'],
-        secondary: ['Java', 'Kotlin', 'Shell Scripting']
-    },
-    frontend: {
-        frameworks: ['React', 'NextJS'],
-        styling: ['TailwindCSS', 'HTML/CSS'],
-        tools: ['Webpack', 'Vite']
-    },
-    backend: {
-        node: ['Express', 'NestJS'],
-        python: ['FastAPI'],
-        architecture: ['Microservices', 'RESTful APIs']
-    }
-};
-```
+As a student passionate about software development, I am focused on expanding my knowledge in areas such as DevOps, cloud infrastructure, and automation. Through independent research and hands-on work on personal projects, I've gained valuable experience in both frontend and backend technologies.
+
+### Key Areas of Interest & Skills:
+- **DevOps**: I am learning how to streamline development workflows using **Docker** and **Docker Compose**, and I have a keen interest in automating tasks and integrating CI/CD pipelines with tools like **GitHub Actions**.
+  
+- **Cloud Infrastructure**: My goal is to better understand cloud platforms like **AWS** and **DigitalOcean** to build scalable and secure environments for deployment and development.
+
+- **Backend Development**: I have explored building APIs with **FastAPI** and **Express**, learning how to implement microservices and RESTful APIs that interact with various databases.
+
+- **Frontend Development**: I am actively working with **React** and **Next.js** to develop interactive and responsive web applications, leveraging **TailwindCSS** for design.
+
+**Security**: I have built custom authentication systems, both for **Next.js** (using **NextAuth** as a base for credential authentication) and from scratch in **FastAPI**. I'm also expanding my knowledge in credential management, environment isolation, and authentication protocols like **JWT** and **OAuth2**.
+
+I am continuously working to improve my skills through personal projects, research, and real-world application.
+
+## 🚀 Projects
+
+### **LiftArchives** 
+A Progressive Web App built with **Next.js** and **TypeScript** for managing and tracking Olympic weightlifting data. This app allows users to log their lifts, analyze progress, and share benchmarks with others in the community.
+- **Tech Stack**: Next.js, TypeScript, TailwindCSS, DrizzleORM, PostgreSQL
+- [Visit the repository](https://github.com/juliencm-dev/liftarchives)
+
+### **Binary Shape Analysis Tool**  
+A Python-based application that uses the **k-nearest neighbors (kNN)** algorithm to classify binary images. It integrates various shape recognition techniques to analyze and classify shapes in a binary image. 
+- **Tech Stack**: Python, Qt, Postgres
+- [Visit the repository](https://github.com/juliencm-dev/BinaryShapeAnalysisTool)
+
+### **Bon Service**  
+A comprehensive application designed to help chefs write, manage, and share recipes with team members. This was the capstone project for my **Technique de l'informatique** degree, developed in collaboration with GitHub user **remschuet**.
+- **Tech Stack**: Next.js, TypeScript, TailwindCSS, Prisma, PostgreSQL
+- [Visit the repository](https://github.com/juliencm-dev/BonService)
+
+### **98 Card - Clone**  
+A clone of the **98 Cards** Android game, built using **Kotlin** and **Android Studio**. This project involved creating a responsive UI and implementing the game logic for a seamless gaming experience.
+- **Tech Stack**: Kotlin, Android Studio, Sqlite
+- [Visit the repository](https://github.com/juliencm-dev/98CardsKotlinClone)
+
 
 ### 🌱 Currently Exploring
 
