@@ -27,11 +27,11 @@ const skills = {
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=juliencm-dev&show_icons=true&theme=radical)
 
 ### 🎯 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliencm-dev&layout=compact&theme=radical)
 
 ### 📫 How to reach me
 - Email: hello@juliencm.dev
@@ -39,12 +39,6 @@ const skills = {
 - Portfolio: [juliencm.dev](https://juliencm.dev)
 
 ### ⚡ Fun fact
-Share an interesting fact about yourself!
-
----
-### 🎵 What I'm listening to
-
-[![Spotify](https://YOUR_SPOTIFY_EMBED_LINK)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-
+When not coding, I enjoy doing Olympic Weightlifting with my wife!
 ---
 ⭐️ From [juliencm-dev](https://github.com/juliencm-dev)
