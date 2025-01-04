@@ -111,7 +111,7 @@ A clone of the **98 Cards** Android game, built using **Kotlin** and **Android S
 - [Visit the repository](https://github.com/juliencm-dev/98CardsKotlinClone)
 
 
-### 🌱 Currently Exploring
+## 🌱 Currently Exploring
 
 - FastAPI for high-performance APIs
 - Golang for system programming
