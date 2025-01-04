@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/juliencm-dev/project-init-cli/blob/main/LICENSE)
 
 ## About Me ✨
-Software developer passionate about creating meaningful solutions, with a focus on DevOps automation and developer experience. I love exploring new technologies and contributing to open-source projects that make developers' lives easier.
+I am a Computer Science Technician graduate and currently pursuing a Bachelor of Science in Computer Science Co-op at Concordia University in Montreal. With a strong foundation in software development and a passion for DevOps automation and enhancing developer experience, I am driven to create meaningful solutions that simplify workflows and improve efficiency. My goal is to continue exploring new technologies and contribute to open-source projects that empower developers, making their work easier and more impactful.
 
 ## 🚀 Featured Project:
 ### Project-Init
