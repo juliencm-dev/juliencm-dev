@@ -7,13 +7,14 @@
 ## About Me ✨
 Software developer passionate about creating meaningful solutions, with a focus on DevOps automation and developer experience. I love exploring new technologies and contributing to open-source projects that make developers' lives easier.
 
-## 🚀 Featured Project: Project-Init
+## 🚀 Featured Project:
+### Project-Init
 
 A developer-first CLI tool that eliminates project setup headaches. Instantly configure development databases, manage environments, and soon bootstrap production-ready FastAPI applications with best practices built-in. From zero to coding in minutes, not hours.
 
 ![Project Init CLI Demo](https://raw.githubusercontent.com/juliencm-dev/project-init-cli/main/docs/render1736007708217.gif)
 
-### ✨ Key Features
+#### ✨ Key Features
 
 - 🚀 Initialize a new repository and push the initial setup to GitHub
 - 🐳 Automated Docker and Docker Compose configuration
@@ -23,7 +24,7 @@ A developer-first CLI tool that eliminates project setup headaches. Instantly co
 - 📊 Includes PgAdmin interface for database management
 - 🛠️ Configurable ports and persistence
 
-### 🚧 Coming Soon
+#### 🚧 Coming Soon
 
 - 🏗️ FastAPI Project Generator with:
   - 🔋 Battery-included project template
@@ -34,10 +35,9 @@ A developer-first CLI tool that eliminates project setup headaches. Instantly co
   - 📝 Custom logging configuration
   - 🐋 Docker-ready from day one
 
-### 🛠️ Tech Stack
+#### 🛠️ Tech Stack
 
 ```javascript
-// 🛠️ Project technology stack
 const projectStack = {
     core: ['Shell Scripting', 'Docker', 'Docker Compose'],
     databases: {
@@ -57,7 +57,7 @@ const projectStack = {
 };
 ```
 
-### 🎯 Quick Start
+#### 🎯 Quick Start
 
 ```bash
 # Use the installation script and follow the instructions.
