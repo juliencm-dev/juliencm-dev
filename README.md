@@ -12,6 +12,9 @@ I am a Computer Science Technician graduate and currently pursuing a Bachelor of
 
 A developer-first CLI tool that eliminates project setup headaches. Instantly configure development databases, manage environments, and soon bootstrap production-ready FastAPI applications with best practices built-in. From zero to coding in minutes, not hours.
 
+[Visit the repository](https://github.com/juliencm-dev/project-init-cli) and git it a ⭐ to show your support!
+
+
 ![Project Init CLI Demo](https://raw.githubusercontent.com/juliencm-dev/project-init-cli/main/docs/render1736008111347.gif)
 
 #### ✨ Key Features
