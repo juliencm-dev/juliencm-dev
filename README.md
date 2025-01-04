@@ -79,29 +79,25 @@ I am continuously working to improve my skills through personal projects, resear
 
 ## 🚀 Projects
 
-### **LiftArchives**  
+### **LiftArchives**
+[![Project Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/juliencm-dev/liftarchives) ![License](https://img.shields.io/badge/license-private-red.svg)  
 A Progressive Web App built with **Next.js** and **TypeScript** for managing and tracking Olympic weightlifting data. This app allows users to log their lifts, analyze progress, and share benchmarks with others in the community.  
 - **Tech Stack**: Next.js, TypeScript, TailwindCSS, DrizzleORM, PostgreSQL  
-[![Project Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/juliencm-dev/liftarchives)  
-![License](https://img.shields.io/badge/license-private-red.svg)  
 
-### **Binary Shape Analysis Tool**  
+### **Binary Shape Analysis Tool**
+[![Project Status](https://img.shields.io/badge/status-completed-blue.svg)](https://github.com/juliencm-dev/BinaryShapeAnalysisTool) ![License](https://img.shields.io/badge/type-educational-orange.svg)
 A Python-based application that uses the **k-nearest neighbors (kNN)** algorithm to classify binary images. It integrates various shape recognition techniques to analyze and classify shapes in a binary image.  
 - **Tech Stack**: Python, Qt, Postgres  
-[![Project Status](https://img.shields.io/badge/status-completed-blue.svg)](https://github.com/juliencm-dev/BinaryShapeAnalysisTool)  
-![License](https://img.shields.io/badge/license-educational-orange.svg)  
 
 ### **Bon Service**  
+[![Project Status](https://img.shields.io/badge/status-inactive-gray.svg)](https://github.com/juliencm-dev/BonService) ![License](https://img.shields.io/badge/license-private-red.svg)  
 A comprehensive application designed to help chefs write, manage, and share recipes with team members. This was the capstone project for my **Technique de l'informatique** degree, developed in collaboration with GitHub user **remschuet**.  
 - **Tech Stack**: Next.js, TypeScript, TailwindCSS, Prisma, PostgreSQL  
-[![Project Status](https://img.shields.io/badge/status-inactive-gray.svg)](https://github.com/juliencm-dev/BonService)  
-![License](https://img.shields.io/badge/license-private-red.svg)  
 
 ### **98 Card - Clone**  
+[![Project Status](https://img.shields.io/badge/status-completed-blue.svg)](https://github.com/juliencm-dev/98CardsKotlinClone) ![License](https://img.shields.io/badge/type-educational-orange.svg)
 A clone of the **98 Cards** Android game, built using **Kotlin** and **Android Studio**. This project involved creating a responsive UI and implementing the game logic for a seamless gaming experience.  
 - **Tech Stack**: Kotlin, Android Studio, Sqlite  
-[![Project Status](https://img.shields.io/badge/status-completed-blue.svg)](https://github.com/juliencm-dev/98CardsKotlinClone)  
-![License](https://img.shields.io/badge/license-educational-orange.svg)
 
 
 ## 🌱 Currently Exploring
