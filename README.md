@@ -1,4 +1,4 @@
-# Hi there, I'm Julien 👋
+# 👋 Hi there, I'm Julien
 
 [![GitHub followers](https://img.shields.io/github/followers/juliencm-dev?label=Follow&style=social)](https://github.com/juliencm-dev)
 [![Project Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/juliencm-dev/project-init-cli)
@@ -7,13 +7,15 @@
 ## About Me ✨
 Software developer passionate about creating meaningful solutions, with a focus on DevOps automation and developer experience. I love exploring new technologies and contributing to open-source projects that make developers' lives easier.
 
-## 🚀 Featured Project: *project-init*
+## 🚀 Featured Project: Project-Init
 
-A powerful development environment setup tool that streamlines database initialization for your projects.
+A developer-first CLI tool that eliminates project setup headaches. Instantly configure development databases, manage environments, and soon bootstrap production-ready FastAPI applications with best practices built-in. From zero to coding in minutes, not hours.
 
 ![Project Init CLI Demo](https://raw.githubusercontent.com/juliencm-dev/project-init-cli/main/docs/demo.gif)
 
 ### ✨ Key Features
+
+- 🚀 Initialize a new repository and push the initial setup to GitHub
 - 🐳 Automated Docker and Docker Compose configuration
 - 🗄️ Multi-database support (PostgreSQL, MongoDB, Chroma)
 - 🔐 Secure credential management
@@ -22,6 +24,7 @@ A powerful development environment setup tool that streamlines database initiali
 - 🛠️ Configurable ports and persistence
 
 ### 🚧 Coming Soon
+
 - 🏗️ FastAPI Project Generator with:
   - 🔋 Battery-included project template
   - 🐘 Async PostgreSQL integration
@@ -32,7 +35,9 @@ A powerful development environment setup tool that streamlines database initiali
   - 🐋 Docker-ready from day one
 
 ### 🛠️ Tech Stack
+
 ```javascript
+// 🛠️ Project technology stack
 const projectStack = {
     core: ['Shell Scripting', 'Docker', 'Docker Compose'],
     databases: {
@@ -53,6 +58,7 @@ const projectStack = {
 ```
 
 ### 🎯 Quick Start
+
 ```bash
 # Use the installation script and follow the instructions.
 ./install.sh
@@ -68,6 +74,7 @@ cd dev-db/
 ## 💼 Technical Expertise
 
 ```javascript
+// 🎯 Professional skill set
 const skills = {
     devOps: {
         containerization: ['Docker', 'Docker Compose'],
@@ -97,14 +104,17 @@ const skills = {
 ```
 
 ### 🌱 Currently Exploring
+
 - FastAPI for high-performance APIs
 - Golang for system programming
 - Advanced CI/CD patterns and practices
 
 ## 📫 Let's Connect!
+
 - 🌐 Portfolio: [juliencm.dev](https://juliencm.dev)
 - 💼 LinkedIn: [Julien Coulombe-Morency](https://linkedin.com/in/juliencm-dev)
 - 📧 Email: hello@juliencm.dev
 
 ---
+
 💡 "Automating the boring stuff so developers can focus on what matters."
