@@ -1,44 +1,102 @@
 # Hi there, I'm Julien 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/juliencm-dev?label=Follow&style=social)](https://github.com/juliencm-dev)
+[![Project Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/juliencm-dev/project-init-cli)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/juliencm-dev/project-init-cli/blob/main/LICENSE)
 
 ## About Me ✨
-Software developer passionate about creating meaningful solutions. I love exploring new technologies and contributing to open-source projects.
+Software developer passionate about creating meaningful solutions, with a focus on DevOps automation and developer experience. I love exploring new technologies and contributing to open-source projects that make developers' lives easier.
 
-### 🔭 I'm currently working on
-- [Project Init CLI](https://github.com/juliencm-dev/project-init-cli) - Brief description
+## 🚀 Featured Project: Project Init CLI
 
-### 🌱 I'm currently learning
-- FastAPI
-- Golang
-- CI/CD
+A powerful development environment setup tool that streamlines database initialization for your projects.
 
-### 💼 Technical Skills
+![Project Init CLI Demo](https://raw.githubusercontent.com/juliencm-dev/project-init-cli/main/docs/demo.gif)
 
+### ✨ Key Features
+- 🐳 Automated Docker and Docker Compose configuration
+- 🗄️ Multi-database support (PostgreSQL, MongoDB, Chroma)
+- 🔐 Secure credential management
+- 🎯 Easy setup with a single command
+- 📊 Includes PgAdmin interface for database management
+- 🛠️ Configurable ports and persistence
+- 🔄 Auto-generated docker-compose.yml
+
+### 🛠️ Tech Stack
 ```javascript
-const skills = {
-    languages: ['TypeScript/JavaScript', 'Python', 'Java', 'Kotlin'],
-    frontend: ['React', 'TailwindCSS', 'HTML/CSS'],
-    backend: ['Node.js', 'FastAPI', 'NextJS'],
-    databases: ['MongoDB', 'PostgreSQL', 'MySQL'],
-    tools: ['Git', 'Docker', 'DigitalOcean', 'Cloudflare', 'AWS']
+const projectStack = {
+    core: ['Shell Scripting', 'Docker', 'Docker Compose'],
+    databases: {
+        sql: ['PostgreSQL', 'PgAdmin4'],
+        nosql: ['MongoDB'],
+        vector: ['Chroma']
+    },
+    infrastructure: ['Port Mapping', 'Volume Management'],
+    security: ['Credential Management', 'Environment Isolation']
 };
 ```
 
-### 📊 GitHub Stats
+### 🎯 Quick Start
+```bash
+cd dev-db
+./setup.sh <db-user> <db-password>
+docker compose up -d
+```
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=juliencm-dev&show_icons=true&theme=radical)
+### 📊 Project Architecture
+```mermaid
+graph TD
+    A[Setup Script] -->|Generates| B[docker-compose.yml]
+    B --> C[PostgreSQL:8080]
+    B --> D[MongoDB:8081]
+    B --> E[Chroma:8082]
+    C --> F[PgAdmin:5050]
+    G[Volume Mounts] -->|Persistence| C
+    G -->|Persistence| D
+    G -->|Persistence| E
+```
 
-### 🎯 Top Languages
+## 💼 Technical Expertise
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliencm-dev&layout=compact&theme=radical)
+```javascript
+const skills = {
+    devOps: {
+        containerization: ['Docker', 'Docker Compose'],
+        cloud: ['DigitalOcean', 'AWS', 'Cloudflare'],
+        cicd: ['GitHub Actions', 'CI/CD Pipelines']
+    },
+    databases: {
+        sql: ['PostgreSQL', 'MySQL'],
+        nosql: ['MongoDB'],
+        tools: ['Database Design', 'Migration Management']
+    },
+    languages: {
+        primary: ['TypeScript/JavaScript', 'Python'],
+        secondary: ['Java', 'Kotlin', 'Shell Scripting']
+    },
+    frontend: {
+        frameworks: ['React', 'NextJS'],
+        styling: ['TailwindCSS', 'HTML/CSS'],
+        tools: ['Webpack', 'Vite']
+    },
+    backend: {
+        node: ['Express', 'NestJS'],
+        python: ['FastAPI'],
+        architecture: ['Microservices', 'RESTful APIs']
+    }
+};
+```
 
-### 📫 How to reach me
-- Email: hello@juliencm.dev
-- LinkedIn: [Julien Coulombe-Morency](https://linkedin.com/in/juliencm-dev)
-- Portfolio: [juliencm.dev](https://juliencm.dev)
+### 🌱 Currently Exploring
+- FastAPI for high-performance APIs
+- Golang for system programming
+- Advanced CI/CD patterns and practices
 
-### ⚡ Fun fact
-When not coding, I enjoy doing Olympic Weightlifting with my wife!
+## 📫 Let's Connect!
+- 🌐 Portfolio: [juliencm.dev](https://juliencm.dev)
+- 💼 LinkedIn: [Julien Coulombe-Morency](https://linkedin.com/in/juliencm-dev)
+- 📧 Email: hello@juliencm.dev
+
 ---
-⭐️ From [juliencm-dev](https://github.com/juliencm-dev)
+💡 "Automating the boring stuff so developers can focus on what matters."
+
