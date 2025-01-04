@@ -37,24 +37,24 @@ A developer-first CLI tool that eliminates project setup headaches. Instantly co
 
 #### 🛠️ Tech Stack
 
-```javascript
-const projectStack = {
-    core: ['Python', 'Bash', 'Docker', 'Docker Compose'],
-    databases: {
-        sql: ['PostgreSQL', 'PgAdmin4'],
-        nosql: ['MongoDB'],
-        vector: ['Chroma'],
-        migrations: ['Alembic']
+```python
+project_stack = {
+    'core': ['Python', 'Bash', 'Docker', 'Docker Compose'],
+    'databases': {
+        'sql': ['PostgreSQL', 'PgAdmin4'],
+        'nosql': ['MongoDB'],
+        'vector': ['Chroma'],
+        'migrations': ['Alembic']
     },
-    infrastructure: ['Port Mapping', 'Volume Management'],
-    security: ['Credential Management', 'Environment Isolation'],
-    framework: {
-        api: ['FastAPI'],
-        testing: ['pytest'],
-        auth: ['JWT', 'Database Session'],
-        logging: ['Custom JSON Logger']
+    'infrastructure': ['Port Mapping', 'Volume Management'],
+    'security': ['Credential Management', 'Environment Isolation'],
+    'framework': {
+        'api': ['FastAPI'],
+        'testing': ['pytest'],
+        'auth': ['JWT', 'Database Session'],
+        'logging': ['Custom JSON Logger']
     }
-};
+}
 ```
 
 ⭐ Give it a star and feel free to contribute if you find the project interesting!
