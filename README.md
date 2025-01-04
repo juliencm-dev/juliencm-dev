@@ -11,7 +11,7 @@ Software developer passionate about creating meaningful solutions, with a focus 
 
 A developer-first CLI tool that eliminates project setup headaches. Instantly configure development databases, manage environments, and soon bootstrap production-ready FastAPI applications with best practices built-in. From zero to coding in minutes, not hours.
 
-![Project Init CLI Demo](https://raw.githubusercontent.com/juliencm-dev/project-init-cli/main/docs/demo.gif)
+![Project Init CLI Demo](https://raw.githubusercontent.com/juliencm-dev/project-init-cli/main/docs/render1736007708217.gif)
 
 ### ✨ Key Features
 
