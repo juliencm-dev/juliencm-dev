@@ -84,7 +84,7 @@ As a student passionate about software development, I am focused on expanding my
 
 - **Frontend Development**: I am actively working with **React** and **Next.js** to develop interactive and responsive web applications, leveraging **TailwindCSS** for design.
 
-**Security**: I have built custom authentication systems, both for **Next.js** (using **NextAuth** as a base for credential authentication) and from scratch in **FastAPI**. I'm also expanding my knowledge in credential management, environment isolation, and authentication protocols like **JWT** and **OAuth2**.
+- **Security**: I have built custom authentication systems, both for **Next.js** (using **NextAuth** as a base for credential authentication) and from scratch in **FastAPI**. I'm also expanding my knowledge in credential management, environment isolation, and authentication protocols like **JWT** and **OAuth2**.
 
 I am continuously working to improve my skills through personal projects, research, and real-world application.
 
