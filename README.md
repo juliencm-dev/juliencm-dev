@@ -5,16 +5,14 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/juliencm-dev/project-init-cli/blob/main/LICENSE)
 
 ## About Me ✨
-I am a Computer Science Technician graduate and currently pursuing a Bachelor of Science in Computer Science Co-op at Concordia University in Montreal. With a strong foundation in software development and a passion for DevOps automation and enhancing developer experience, I am driven to create meaningful solutions that simplify workflows and improve efficiency. My goal is to continue exploring new technologies and contribute to open-source projects that empower developers, making their work easier and more impactful.
+I am a Computer Science Technician graduate and currently pursuing a Bachelor of Science in Computer Science Co-op at Concordia University in Montreal. I have a strong foundation in software development and a passion for DevOps automation and enhancing developer experience, I am driven to create meaningful solutions that simplify workflows and improve efficiency. My goal is to continue exploring new technologies and contribute to open-source projects that empower developers, making their work easier and more impactful.
 
 ## 🚀 Featured Project:
 ### Project-Init
 
-A developer-first CLI tool that eliminates project setup headaches. Instantly configure development databases, manage environments, and soon bootstrap production-ready FastAPI applications with best practices built-in. From zero to coding in minutes, not hours.
-
 [Visit the repository](https://github.com/juliencm-dev/project-init-cli) 
 
-⭐ Give it a star and feel free to contribute if you find the project interesting!
+A developer-first CLI tool that eliminates project setup headaches. Instantly configure development databases, manage environments, and soon bootstrap production-ready FastAPI applications with best practices built-in. From zero to coding in minutes, not hours.
 
 ![Project Init CLI Demo](https://raw.githubusercontent.com/juliencm-dev/project-init-cli/main/docs/render1736008111347.gif)
 
@@ -61,19 +59,8 @@ const projectStack = {
 };
 ```
 
-#### 🎯 Quick Start
+⭐ Give it a star and feel free to contribute if you find the project interesting!
 
-```bash
-# Use the installation script and follow the instructions.
-./install.sh
-
-# Use the project-init command to start a new project.
-project-init -p my-awesome-project --db postgres
-
-# Then navigate to the dev-db folder and launch your database container!
-cd dev-db/
-./setup.sh <username> <password>
-```
 
 ## 💼 Technical Expertise
 
