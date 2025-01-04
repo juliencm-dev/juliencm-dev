@@ -20,7 +20,6 @@ A powerful development environment setup tool that streamlines database initiali
 - 🎯 Easy setup with a single command
 - 📊 Includes PgAdmin interface for database management
 - 🛠️ Configurable ports and persistence
-- 🔄 Auto-generated docker-compose.yml
 
 ### 🛠️ Tech Stack
 ```javascript
@@ -41,19 +40,6 @@ const projectStack = {
 cd dev-db
 ./setup.sh <db-user> <db-password>
 docker compose up -d
-```
-
-### 📊 Project Architecture
-```mermaid
-graph TD
-    A[Setup Script] -->|Generates| B[docker-compose.yml]
-    B --> C[PostgreSQL:8080]
-    B --> D[MongoDB:8081]
-    B --> E[Chroma:8082]
-    C --> F[PgAdmin:5050]
-    G[Volume Mounts] -->|Persistence| C
-    G -->|Persistence| D
-    G -->|Persistence| E
 ```
 
 ## 💼 Technical Expertise
