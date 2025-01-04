@@ -21,6 +21,16 @@ A powerful development environment setup tool that streamlines database initiali
 - 📊 Includes PgAdmin interface for database management
 - 🛠️ Configurable ports and persistence
 
+### 🚧 Coming Soon
+- 🏗️ FastAPI Project Generator with:
+  - 🔋 Battery-included project template
+  - 🐘 Async PostgreSQL integration
+  - 🔄 Database migrations using Alembic
+  - 🔒 Built-in authentication system
+  - 🧪 Comprehensive test suite setup
+  - 📝 Custom logging configuration
+  - 🐋 Docker-ready from day one
+
 ### 🛠️ Tech Stack
 ```javascript
 const projectStack = {
@@ -28,18 +38,31 @@ const projectStack = {
     databases: {
         sql: ['PostgreSQL', 'PgAdmin4'],
         nosql: ['MongoDB'],
-        vector: ['Chroma']
+        vector: ['Chroma'],
+        migrations: ['Alembic']
     },
     infrastructure: ['Port Mapping', 'Volume Management'],
-    security: ['Credential Management', 'Environment Isolation']
+    security: ['Credential Management', 'Environment Isolation'],
+    framework: {
+        api: ['FastAPI'],
+        testing: ['pytest'],
+        auth: ['JWT', 'OAuth2'],
+        logging: ['Custom Logger']
+    }
 };
 ```
 
 ### 🎯 Quick Start
 ```bash
-cd dev-db
-./setup.sh <db-user> <db-password>
-docker compose up -d
+# Use the installation script and follow the instructions.
+./install.sh
+
+# Use the project-init command to start a new project.
+project-init -p my-awesome-project --db postgres
+
+# Then navigate to the dev-db folder and launch your database container!
+cd dev-db/
+./setup.sh <username> <password>
 ```
 
 ## 💼 Technical Expertise
@@ -85,4 +108,3 @@ const skills = {
 
 ---
 💡 "Automating the boring stuff so developers can focus on what matters."
-
