@@ -95,7 +95,7 @@ A comprehensive application designed to help chefs write, manage, and share reci
 [![Project Status](https://img.shields.io/badge/status-completed-blue.svg)](https://github.com/juliencm-dev/BinaryShapeAnalysisTool) ![Project Type](https://img.shields.io/badge/type-school-teal.svg)
 
 A Python-based application that uses the **k-nearest neighbors (kNN)** algorithm to classify binary images. It integrates various shape recognition techniques to analyze and classify shapes in a binary image.  
-- **Tech Stack**: Python, Qt, Postgres  
+- **Tech Stack**: Python, Qt, PostgreSQL
 
 ### **98 Card - Clone**  
 [![Project Status](https://img.shields.io/badge/status-completed-blue.svg)](https://github.com/juliencm-dev/98CardsKotlinClone) ![Project Type](https://img.shields.io/badge/type-school-teal.svg)
