@@ -15,11 +15,9 @@ A developer-first CLI tool that eliminates project setup headaches. Instantly co
 This project requires the following dependencies:
 
 - Bash shell
-- Git
-- GitHub CLI
-- Docker
-- Docker Compose
-- Python3
+- Git, GitHub CLI
+- Docker, Docker Compose
+- Python
 
 It runs natively on Linux and MacOS. For Windows users, it must be run via Windows Subsystem for Linux (WSL).
 
